@@ -1,0 +1,7 @@
+Cyberspace: the final frontier. These are the syslogs 
+of the quantum computer LCARS. Its continuing mission: to 
+explore strange new networks, to seek out new viruses 
+and new crypters, to boldly scan where no one has nmapped before.
+
+One-line version:
+Cyberspace: the final frontier. These are the syslogs of the quantum computer LCARS. Its continuing mission: to explore strange new networks, to seek out new viruses and new crypters, to boldly scan where no one has nmapped before.
