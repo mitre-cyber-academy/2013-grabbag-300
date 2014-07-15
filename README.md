@@ -26,8 +26,6 @@ What to distribute:
 Only give the link to the web server hosting the challenge.
 
 How to Stand Up locally: 
-    git submodule init
-    git submodule update
     Install [vagrant](http://vagrantup.com/) and then run vagrant up from the root of this directory. After the script finished, navigate to [localhost:8080](http://localhost:8080) in your browser.
 
 Flag: MCA-ED0C7012
